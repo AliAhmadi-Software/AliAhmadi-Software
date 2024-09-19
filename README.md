@@ -14,8 +14,10 @@
 
 ### :man_technologist: &nbsp;About Me:
 <h4 align="left">
-- 🌱 I’m learning more about Data Science & Machine Learning & Sql and NoSql Databases
-- 📫 How to reach me: aliahmadi79sh@gmail.com
+<ul>
+<li>🌱 I’m learning more about Data Science & Machine Learning & Sql and NoSql Databases</li>
+<li>📫 How to reach me: aliahmadi79sh@gmail.com</li>
+<ul>
 </h4>
 
 ## 🛠️ Tech Stack & Tools
