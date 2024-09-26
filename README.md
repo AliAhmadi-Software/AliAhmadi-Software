@@ -13,7 +13,7 @@
 </ul>
 </h4>
 
-<p align="center">
+<p align="center" width="600" height="300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula&layout=compact" alt="Top Langs">
 </p>
 
