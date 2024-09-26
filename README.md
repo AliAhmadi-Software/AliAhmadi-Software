@@ -13,6 +13,10 @@
 </ul>
 </h4>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula&layout=compact" alt="Top Langs">
+</p>
+
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me:
@@ -22,10 +26,6 @@
 <li>📫 How to reach me: aliahmadi79sh@gmail.com</li>
 <ul>
 </h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula" alt="Top Langs">
-</p>
 
 ## 🛠️ Tech Stack & Tools
 
