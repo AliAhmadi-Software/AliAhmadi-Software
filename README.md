@@ -24,7 +24,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula" alt="Top Langs">
 </p>
 
 ## 🛠️ Tech Stack & Tools
