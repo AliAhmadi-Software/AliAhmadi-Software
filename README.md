@@ -21,10 +21,13 @@
 
 ### :man_technologist: &nbsp;About Me:
 <h4 align="left">
-<ul>
-<li>🌱 I’m learning more about Data Science & Machine Learning & Sql and NoSql Databases</li>
-<li>📫 How to reach me: aliahmadi79sh@gmail.com</li>
-<ul>
+    <ul>
+        <li>🎓 As a Master’s student at Iran University of Science and Technology (IUST), I have a strong passion for computational and cloud-based systems.</li>
+        <li>💻 I bring a solid foundation in Python, C#, and various backend technologies, including Django, SQL, and NoSQL databases.</li>
+        <li>🔍 My journey in tech has also led me to gain expertise in data science, machine learning, and SEO-focused site design.</li>
+        <li>📚 Currently, my research spans software architecture, cloud computing design patterns, computer vision, neural networks, and machine learning.</li>
+        <li>🌐 Driven by the impact of socio-computational systems, I am dedicated to mastering the tools that make these systems scalable and efficient.</li>
+    </ul>
 </h4>
 
 ## 🛠️ Tech Stack & Tools
@@ -60,9 +63,12 @@
 </p>
 
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](href="https://linkedin.com/in/www.linkedin.com/in/ali-ahmadi-79ah")
+### 📫 Contact Me
 
-  
+Let's connect! I'm always open to discussing potential collaborations, ideas, or opportunities.
+
+- **Email**: [aliahmadi79sh@gmail.com](mailto:aliahmadi79sh@gmail.com)
+- **Telegram**: [@antiizionist](https://t.me/antiizionist)
+- **LinkedIn**: [Ali Ahmadi](https://www.linkedin.com/in/ali-ahmadi-79ah/)
 
 Feel free to explore my repositories and connect with me!
