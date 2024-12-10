@@ -33,6 +33,7 @@
 ## 🛠️ Tech Stack & Tools
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="Css3" alt="HTML" width="50" height="50"/>&nbsp;
   </p>
 
 ### 📫 Contact Me
