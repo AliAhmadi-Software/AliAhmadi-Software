@@ -31,7 +31,7 @@
 </h4>
 
 ## 🛠️ Tech Stack & Tools
-  <p>
+  <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   </p>
 
