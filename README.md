@@ -8,7 +8,7 @@
 </p>
 <ul>
 <li>I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</li>
-<li>I’m passionate about Machine Learning (ML), Data Science, and Software Development.</li>
+<li>I’m passionate about Machine Learning (ML), Deep Learning (DL) Data Science, and Software Development.</li>
 <li>I specialize in Python, Django framework.</li>
 <li>I am interested in database and eager to learn new technologies.</li>
 </ul>
@@ -39,6 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="50" height="50"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="50" height="50"/>&nbsp;
   </p>
 
 ### 📫 Contact Me
