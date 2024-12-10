@@ -61,6 +61,12 @@
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="65" height="65" />&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="xd" alt="xd" width="65" height="65" />&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" alt="figma" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" title="windows11" alt="windows11" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" title="kubernetes" alt="kubernetes" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" title="hadoop" alt="hadoop" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" title="apachespark" alt="apachespark" width="65" height="65" />&nbsp;
   </p>
 
 ### 📫 Contact Me
