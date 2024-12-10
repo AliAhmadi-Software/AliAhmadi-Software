@@ -55,7 +55,7 @@
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="65" height="65" />&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" title="neo4j" alt="neo4j" width="65" height="65" />&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg" title="cassandra" alt="cassandra" width="65" height="65" />&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" title="neo4j" alt="neo4j" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="65" height="65" />&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" title="neo4j" alt="neo4j" width="65" height="65" />&nbsp;
   </p>
 
