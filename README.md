@@ -25,8 +25,7 @@
         <li>🎓 As a Master’s student at Iran University of Science and Technology (IUST), I have a strong passion for computational and cloud-based systems.</li>
         <li>💻 I bring a solid foundation in Python, C#, and various backend technologies, including Django, SQL, and NoSQL databases.</li>
         <li>🔍 My journey in tech has also led me to gain expertise in data science, machine learning, and SEO-focused site design.</li>
-        <li>📚 Currently, my research spans software architecture, cloud computing design patterns, computer vision, neural networks, and machine learning.</li>
-        <li>🌐 Driven by the impact of socio-computational systems, I am dedicated to mastering the tools that make these systems scalable and efficient.</li>
+        <li>📚 Currently, my research spans software architecture, cloud computing, computer vision, Deep Learning, and machine learning and Big Data Analytics.</li>
     </ul>
 </h4>
 
