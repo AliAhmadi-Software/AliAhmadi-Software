@@ -48,6 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line-wordmark.svg" title="djangorest" alt="djangorest" width="80" height="80" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" width="70" height="70" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="65" height="65" />&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" alt="linux" width="65" height="65" />&nbsp;
   </p>
 
 ### 📫 Contact Me
