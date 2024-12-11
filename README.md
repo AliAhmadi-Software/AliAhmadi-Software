@@ -15,6 +15,7 @@
 </h4>
 
 <p align="center" width="600" height="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmadi-Software&show_icons=true&theme=dark&hide_border=false" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula&layout=compact" alt="Top Langs">
 </p>
 
