@@ -14,13 +14,6 @@
 </ul>
 </h4>
 
-<p align="center" width="600" height="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula&layout=compact" alt="Top Langs">
-</p>
-<p align="center" width="600" height="300">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmadi-Software&show_icons=true&theme=dark&hide_border=false" alt="stats" />
-</p>
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me:
@@ -81,3 +74,10 @@ Let's connect! I'm always open to discussing potential collaborations, ideas, or
 - **LinkedIn**: [Ali Ahmadi](https://www.linkedin.com/in/ali-ahmadi-79ah/)
 
 Feel free to explore my repositories and connect with me!
+
+<p align="center" width="600" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula&layout=compact" alt="Top Langs">
+</p>
+<p align="center" width="600" height="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmadi-Software&show_icons=true&theme=dark&hide_border=false" alt="stats" />
+</p>
