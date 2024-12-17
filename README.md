@@ -6,9 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=50">
 </p>
-<p align="center">
-  ![Profile views counter](https://komarev.com/ghpvc/?username=AliAhmadi-Software&style=flat-square)
-</p>
 <ul>
 <li>I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</li>
 <li>I’m passionate about Machine Learning (ML), Deep Learning (DL) Data Science, and Software Development and Cloud Computing.</li>
