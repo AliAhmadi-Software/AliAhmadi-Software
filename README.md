@@ -8,7 +8,7 @@
 </p>
 <ul>
 <li>I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</li>
-<li>I’m passionate about Machine Learning (ML), Deep Learning (DL) Data Science, and Software Development and Cloud Computing.</li>
+<li>I’m passionate about Machine Learning (ML), Deep Learning (DL) Federated Learning, and Edge Computing.</li>
 <li>I specialize in Python, Django framework.</li>
 <li>I am interested in database and eager to learn new technologies.</li>
 </ul>
