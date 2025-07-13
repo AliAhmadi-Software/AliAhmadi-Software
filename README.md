@@ -35,13 +35,17 @@
 
 ### 📫 Contact Me
 
-Let's connect! I'm always open to discussing potential collaborations, ideas, or opportunities.
-
-- **Email**: [aliahmadi79sh@gmail.com](mailto:aliahmadi79sh@gmail.com)
-- **Telegram**: [@antiizionist](https://t.me/antiizionist)
-- **LinkedIn**: [Ali Ahmadi](https://www.linkedin.com/in/ali-ahmadi-79ah/)
-
-Feel free to explore my repositories and connect with me!
+<div align="center">
+  <a href="https://www.linkedin.com/in/ali-ahmadi-79ah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="aliahmadi79sh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/antiizionist" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
+  </a>
+</div>
 
 <p align="center" width="600" height="300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmadi-Software&theme=dracula&layout=compact" alt="Top Langs">
