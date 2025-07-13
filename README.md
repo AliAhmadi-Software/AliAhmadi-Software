@@ -81,3 +81,20 @@ Feel free to explore my repositories and connect with me!
 <p align="center" width="600" height="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmadi-Software&show_icons=true&theme=dark&hide_border=false" alt="stats" />
 </p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AliAhmadi-Software&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AliAhmadi-Software&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAhmadi-Software/AliAhmadi-Software/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAhmadi-Software/AliAhmadi-Software/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AliAhmadi-Software/AliAhmadi-Software/output/pacman-contribution-graph.svg">
+</picture>
+
+###
