@@ -26,14 +26,14 @@
     </ul>
 </h5>
 
-## 🛠️ Tech Stack & Tools
+###
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ansible,bash,cs,cassandra,cloudflare,django,docker,elasticsearch,git,github,githubactions,gitlab,grafana,graphql,jenkins,kubernetes,latex,linux,matlab,mongodb,mysql,nginx,postgres,postman,powershell,prometheus,py,pycharm,redis,sqlite,sklearn,selenium,ubuntu,vscode,vim,windows,wordpress,xd" />
   </a>
 </p>
 
-### 📫 Contact Me
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-ahmadi-79ah/" target="_blank">
@@ -46,6 +46,8 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
   </a>
 </div>
+
+###
 
 <p align="center" width="600" height="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmadi-Software&show_icons=true&theme=dark&hide_border=false" alt="stats" />
