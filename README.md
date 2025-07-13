@@ -16,16 +16,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me:
-<h5 align="left">
-    <ul>
-        <li>🎓 As a Master’s student at Iran University of Science and Technology (IUST), I have a strong passion for computational and cloud-based systems.</li>
-        <li>💻 I bring a solid foundation in Python, C#, and various backend technologies, including Django, SQL, and NoSQL databases.</li>
-        <li>🔍 I have a good base in Agile Methodologies, Software Principles, and Continuous Integration and Continuous Delivery (CI/CD).</li>
-        <li>📚 Currently, my research spans software architecture, Edge computing, Federated Learning, Deep Learning, and machine learning.</li>
-    </ul>
-</h5>
-
 ###
   <p align="center">
   <a href="https://skillicons.dev">
