@@ -3,18 +3,6 @@
 
 # Hi there, I'm Ali Ahmadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 <h4 align="left">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=50">
-</p>
-<ul>
-<li>I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</li>
-<li>I’m passionate about Machine Learning (ML), Deep Learning (DL) Federated Learning, and Edge Computing.</li>
-<li>I specialize in Python, Django framework.</li>
-<li>I am interested in database and eager to learn new technologies.</li>
-</ul>
-</h4>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ###
   <p align="center">
