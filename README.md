@@ -4,6 +4,16 @@
 # Hi there, I'm Ali Ahmadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 <h4 align="left">
 
+I'm **Ali**, a passionate **Software Engineer** specializing in **Python** and **backend design and development**. With a solid background in web development, I've honed my skills in creating scalable and efficient systems.
+
+## 🌱 Currently Learning
+
+I'm diving into the world of **Federated Learning**, focusing on **Client Selection**, **system-level challenges**, and **Communication Efficiency**, exploring how these concepts can optimize distributed systems and enhance privacy-preserving AI.
+
+## 🤝 Collaboration
+
+I'm eager to contribute to innovative software projects and open-source initiatives, particularly those leveraging **DevOps**, **Cloud Computing**, and **Edge Computing**. Let's connect and build cutting-edge solutions together!
+
 ###
   <p align="center">
   <a href="https://skillicons.dev">
