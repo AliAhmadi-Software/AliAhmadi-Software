@@ -37,6 +37,16 @@ I'm eager to contribute to innovative software projects and open-source initiati
 
 ###
 
+<p align="center">
+  <!-- Streak -->
+  <img width="350" src="https://github-readme-streak-stats-8qopazm3p-haneball.vercel.app/?user=AliAhmadi-Software&theme=dark&hide_border=true" />
+  
+  <!-- Graph -->
+  <img width="394" src="https://github-readme-activity-graph-g56pdns35-haneball.vercel.app/graph/?username=AliAhmadi-Software&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
+</p>
+
+###
+
 <p align="center" width="600" height="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAhmadi-Software&show_icons=true&theme=radical&hide_border=false" alt="stats" />
 </p>
