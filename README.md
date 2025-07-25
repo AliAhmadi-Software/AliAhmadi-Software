@@ -63,6 +63,17 @@ I'm eager to contribute to innovative software projects and open-source initiati
 
 ###
 
+<p align="center"> 
+<a href="https://github.com/AliAhmadi-Software/AliAhmadi-Software" target="_blank">
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/AliAhmadi-Software/AliAhmadi-Software?label=profile%20updated&style=flat-square"></a>
+</p>
+ <p align="center"> 
+  <img height="22" src="https://visitor-badge.imlete.cn/?id=github.AliAhmadi-Software&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
+  <img height="22" src="https://visitor-badge.imlete.cn/?id=github.AliAhmadi-Software&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
+</p>
+
+###
+
 <div align="center">
 <br>
 <a href="https://git.io/typing-svg">
