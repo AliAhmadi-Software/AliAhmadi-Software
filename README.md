@@ -10,7 +10,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Master's+Software+Engineering+student+at+IUST%F0%9F%96%A5%EF%B8%8F;Research+on+Federated+Learning%F0%9F%8E%AF;Python+Programmer+%26+DevOps+Specialist%F0%9F%9A%80" />
 </p>
 
-I'm **Ali**, a passionate **Software Engineer** specializing in **Python** and **backend design and development**. With a solid background in web development, I've honed my skills in creating scalable and efficient systems.
+###
 
 ## 🌱 Currently Learning
 
